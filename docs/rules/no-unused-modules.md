@@ -4,7 +4,7 @@
 
 Reports:
   - modules without any exports
-  - individual exports not being statically `import`ed or `require`ed from other modules in the same project
+  - individual exports not being statically `import`ed or `require`d from other modules in the same project
   - dynamic imports are supported if argument is a literal string
 
 
